@@ -1,0 +1,182 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+header {
+    background: linear-gradient(to right, #3de6fa, #243eff);
+}
+
+.hbas {
+    text-shadow: 2px 2px black;
+}
+
+.ikon:hover {
+    color: #FA3763;
+}
+
+.banner {
+    height: 600px;
+    background: linear-gradient(to right, #3de6fa, #243eff);
+}
+
+.bannerimg {
+    width: 70%;
+}
+
+nav {
+    opacity: .7;
+}
+
+#logoikon,
+span {
+    color: #339FFD;
+}
+
+.box {
+    margin-top: 20%;
+}
+
+hr {
+    color: white;
+}
+
+.box h1 {
+    text-shadow: 2px 2px black;
+}
+
+.bbuton {
+    background-color: #339FFD;
+}
+
+.bbuton:hover {
+    background-color: #243eff;
+}
+
+#saat {
+    display: block;
+    top: -30px;
+    background: linear-gradient(to left, #3de6fa, #243eff);
+}
+
+#saat:hover {
+    top: 0px;
+}
+
+.sil {
+    clear: both;
+}
+
+.res1text {
+    position: absolute;
+    margin-top: 4%;
+    transform: translate(10%, 10%);
+    -webkit-transform: translate(10%, 10%);
+    -moz-transform: translate(10%, 10%);
+    -ms-transform: translate(10%, 10%);
+    -o-transform: translate(10%, 10%);
+}
+
+.hikon,
+.sicon {
+    color: #243eff;
+}
+
+.hbaslik,
+.dbaslik {
+    color: #339FFD;
+}
+
+.asdf {
+    background-color: #f1f2f6;
+}
+
+.servis {
+    width: 100%;
+    height: 30%;
+    background-image: url(img/servisarka.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.servisler {
+    background: linear-gradient(to right, #3de6fa, #243eff);
+    opacity: .8;
+}
+
+.yazi,
+.dtext {
+    color: #747d8c;
+}
+
+.sbaslik {
+    color: #339FFD;
+}
+
+.doktor {
+    width: 95%;
+}
+
+.drkutu:hover {
+    box-shadow: 0 0 2px 2px #666;
+}
+
+small i:hover {
+    color: #339FFD;
+}
+
+#galeri {
+    background: linear-gradient(to right, #3de6fa, #243eff);
+}
+
+.gkutu {
+    opacity: .8;
+    transition: all .8s;
+    -webkit-transition: all .8s;
+    -moz-transition: all .8s;
+    -ms-transition: all .8s;
+    -o-transition: all .8s;
+}
+
+.gkutu:hover {
+    opacity: 1;
+    border: 3px solid white;
+}
+
+#formalt {
+    background-image: url(img/randevubg.png);
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+#altfooter hr {
+    display: block;
+    color: #339FFD;
+    margin: auto;
+    width: 150px;
+    height: 5px;
+}
+
+.iletkutu {
+    background: none;
+    border: none;
+    border-bottom: 2px solid #339FFD;
+    font-style: italic;
+    color: white;
+}
+
+.iletkutu:hover {
+    border: 2px solid #339FFD;
+}
+
+#iletisim {
+    background: linear-gradient(to right, #3de6fa, #243eff);
+}
+
+iframe {
+    width: 100%;
+    height: 350px;
+}
+
+footer {
+    background: linear-gradient(to left, #3de6fa, #243eff);
+}
